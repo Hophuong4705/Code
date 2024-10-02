@@ -1,0 +1,6 @@
+B1	Bush	2314
+C2	Clinton	4750
+O1	Obama	3200
+T3	Trump	5100
+B2	Biden	4200
+P5	Putin	4700

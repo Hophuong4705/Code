@@ -1,0 +1,216 @@
+Xuat Thong Tin:
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216
+	Mark: 0
+	ID: 	Name: 	Age: 16777216

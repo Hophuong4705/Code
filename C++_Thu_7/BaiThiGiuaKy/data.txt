@@ -1,0 +1,9 @@
+ToanNC     T  10  30  7
+LyNC       T  15  25  9
+TinHoc     G  30  10  Tin
+DaiSo      G  40  8   Toan
+AnhNC      T  22  35  6
+English    G  50  12  NgoaiNgu
+HoaNC      T  10  20  8
+VatLy      G  40  7   Ly
+HinhHoc    G  30  9   Toan

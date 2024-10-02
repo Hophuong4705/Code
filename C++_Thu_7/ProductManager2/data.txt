@@ -1,0 +1,10 @@
+01	Alpha 	2 	18000000 Honda
+02	RSX	1	22000000 Honda
+03	Future	3	34000000 Honda
+04	Vision 	5 	32000000 Honda
+05	Sirius	2 	19000000 Yamaha
+06	Exciter	1	45000000 Yamaha
+07	Raider 	2	22000000 Suzuki
+08	GSX	3	64000000 Suzuki
+09	Attila	5	23000000 SYM
+10	Medley 	1	90000000 Piaggio

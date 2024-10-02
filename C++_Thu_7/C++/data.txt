@@ -1,0 +1,7 @@
+B	Python		25	7.0
+P	Pascal		15	4.0
+A	Android		50	5.0
+K	Kotlin		20	6.0
+C	C++		12	5.0
+J	Java		17	9.0
+

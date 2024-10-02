@@ -1,0 +1,7 @@
+Xuat Thong Tin :
+Thong Tin Sinh Vien
+Name: sw
+Major: d
+ID: 34
+Mark: 7
+

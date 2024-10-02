@@ -1,0 +1,6 @@
+W	Wine	12	50
+S	Sugar	15	40
+C	Cream	70	50
+B	Butter	150	60
+R	Rice	120	50
+F	Fruit	30	90

@@ -1,0 +1,7 @@
+Xuat Thong Tin:
+Ho Va Ten: phuong
+Tuoi: 19
+Duoc nhan thuong !
+Ho Va Ten: ohuog
+Tuoi: 19
+Duoc thuong !
